@@ -4,5 +4,5 @@ num3 = int(input("Enter third Number:\n"))
 num4 = int(input("Enter forth Number:\n"))
 answer = num1 + num2 + num3 + num4
 print()
-print("The value of the four numbers you entered:", answer)
+print("The sum of the four numbers you entered:", answer)
 
